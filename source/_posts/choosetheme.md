@@ -1,7 +1,8 @@
 ---
 title: 如何選擇適合你的Hexo Theme? 4款實用主題推薦。
 date: 2017-05-15 18:02:46
-tags:
+tags: Hexo
+categories: 新手上路
 ---
 
 把Hexo架起來後，立刻會遇到佈景主題選擇的困境。
