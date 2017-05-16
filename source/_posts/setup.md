@@ -17,7 +17,7 @@ repo name default就是 githubpage顯示名稱，所以開repo的時候最好想
 github ok後、回來local端準備:
 我習慣先在local端看一下到底架起來長怎樣:　
 ```
-Hexo Server
+hexo server
 ```
 2.安裝 [hexo-deployer-git](https://github.com/hexojs/hexo-deployer-git)
 ```

@@ -45,7 +45,7 @@ I am code block demo
 要怎樣把主題當成自己的repo然後用git submodule去小修成想要的樣式又是另個故事了...
 
 **4.持續更新維護:**
-Hexo框架推出也一段時間了... 代代優秀主題倍出，但有些主題author已失去聯絡、或是宣告不再更新。
+Hexo框架推出也一段時間了... 代代優秀主題輩出，但有些主題author已失去聯絡、或是宣告不再更新。
 有無持續維護重不重要見仁見智，但有人問總比沒人問好XD。
 舉例來說，[maupassant](https://github.com/tufu9441/maupassant-hexo) 的作者tufu9441現在都還會在個人blog教導user如何使用，
 完全是佛心客服來著，留言討論版可謂Hexo theme安裝101，主題近期新增的多國語言功能也很用心。
